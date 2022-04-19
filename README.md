@@ -3,4 +3,5 @@
 database file will be created in the same location when the application runs
 
 requeriments : 
-pyqt5
+pyqt5,
+sqlite3
